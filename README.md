@@ -1,1 +1,1 @@
-## Coorrosion Detction Using YOLOv8 & Segment Anything Model
+## Corrosion Detction Using YOLOv8 & Segment Anything Model
